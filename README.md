@@ -1,2 +1,2 @@
 # Run-cow
- Jogo criado bna aula de lógica de programação com JavaScript
+ Jogo criado na aula de lógica de programação com JavaScript!
